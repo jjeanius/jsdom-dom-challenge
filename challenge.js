@@ -64,11 +64,3 @@ const list = document.getElementById('comment_list');
         console.log("formSubmit", e);
         list.append(li);
 });
-
- /*form.getElementByTagName("comments").addEventListener('submit', function(e) {
-
-
-    let value = document.getElementById("list");
-    form.append("value");
-        // console.log(value); */
-//})
